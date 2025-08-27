@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2020<br>📚 I'm currently learning Kotlin</p>
+<p align="left">✨ Coding since 2020<br>📚 I'm currently learning Kotlin and React Native</p>
 
 ###
 
