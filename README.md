@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2020<br>📚 I'm currently learning Kotlin and React Native</p>
+<p align="left">✨ Coding since 2020<br>📚 I'm currently learning Kotlin, Java and Spring Boot</p>
 
 ###
 
@@ -56,11 +56,5 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/We5t1/We5t1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/We5t1/We5t1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/We5t1/We5t1/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
